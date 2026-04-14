@@ -1,7 +1,10 @@
-
 # SPDMark: Selective Parameter Displacement for Robust Video Watermarking [CVPR 2026]
 
-Official code release for **SPDMark**, a robust video watermarking framework based on selective parameter displacement in the decoder of video generation models.
+
+[![CVPR Highlight](https://img.shields.io/badge/CVPR-Highlight-blue)](https://arxiv.org/abs/2512.12090)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.12090-red)](https://arxiv.org/abs/2512.12090)
+
+### Official code release for **SPDMark**, a robust video watermarking framework based on selective parameter displacement in the decoder of video generation models.
 ---
 
 ### Folder description
@@ -130,7 +133,7 @@ Please update command paths according to your local setup.
 If you find this repository useful, please cite the paper:
 ```bibtex
 @inproceedings{fares2026spdmark,
-  title={{SPDM}ark: Selective Parameter Displacement for Robust Video Watermarking},
+  title={{{SPDM}ark: Selective Parameter Displacement for Robust Video Watermarking}},
   author={Samar Fares and Nurbek Tastan and Karthik Nandakumar},
   booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026},
